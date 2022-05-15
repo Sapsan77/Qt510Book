@@ -1,6 +1,6 @@
 QT += core gui
 QT += widgets
-INCLUDEPATH += /opt/Qt5.10.0/5.10.0/Src/qtbase/include/QtWidgets
+# INCLUDEPATH += /opt/Qt5.10.0/5.10.0/Src/qtbase/include/QtWidgets
 
 # The following define makes your compiler emit warnings if you use
 # any feature of Qt which as been marked deprecated (the exact warnings
