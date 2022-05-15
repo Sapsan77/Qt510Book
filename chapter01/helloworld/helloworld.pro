@@ -1,5 +1,6 @@
 QT += core gui
 QT += widgets
+QMAKE_LFLAGS += -no-pie
 # INCLUDEPATH += /opt/Qt5.10.0/5.10.0/Src/qtbase/include/QtWidgets
 
 # The following define makes your compiler emit warnings if you use
